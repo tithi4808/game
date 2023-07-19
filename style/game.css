@@ -215,6 +215,14 @@ footer{
     font-size: .7rem;
     color:rgba(255, 255, 255, 0.60);
 }
+.gam{
+    display: inline-flex;
+}
+#im{
+    width: 86.026px;
+ height: 40.015px;
+ padding: 25px 0px 0px 0px;
+}
 
 
 
