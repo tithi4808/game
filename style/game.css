@@ -227,7 +227,16 @@ footer{
     height: 25px;
     width: 25px;
 }
+.icons{
+   justify-content: space-between;
+    margin-bottom: 10px;
+}
+.follow-button{
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
 
+}
 
 
 
